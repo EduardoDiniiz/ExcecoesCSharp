@@ -1,0 +1,11 @@
+C:\Users\eduardo\source\repos\ExcecoesCSharp\ExcecoesCSharp\bin\Debug\netcoreapp2.1\ExcecoesCSharp.deps.json
+C:\Users\eduardo\source\repos\ExcecoesCSharp\ExcecoesCSharp\bin\Debug\netcoreapp2.1\ExcecoesCSharp.runtimeconfig.json
+C:\Users\eduardo\source\repos\ExcecoesCSharp\ExcecoesCSharp\bin\Debug\netcoreapp2.1\ExcecoesCSharp.runtimeconfig.dev.json
+C:\Users\eduardo\source\repos\ExcecoesCSharp\ExcecoesCSharp\bin\Debug\netcoreapp2.1\ExcecoesCSharp.dll
+C:\Users\eduardo\source\repos\ExcecoesCSharp\ExcecoesCSharp\bin\Debug\netcoreapp2.1\ExcecoesCSharp.pdb
+C:\Users\eduardo\source\repos\ExcecoesCSharp\ExcecoesCSharp\obj\Debug\netcoreapp2.1\ExcecoesCSharp.csprojAssemblyReference.cache
+C:\Users\eduardo\source\repos\ExcecoesCSharp\ExcecoesCSharp\obj\Debug\netcoreapp2.1\ExcecoesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\source\repos\ExcecoesCSharp\ExcecoesCSharp\obj\Debug\netcoreapp2.1\ExcecoesCSharp.AssemblyInfoInputs.cache
+C:\Users\eduardo\source\repos\ExcecoesCSharp\ExcecoesCSharp\obj\Debug\netcoreapp2.1\ExcecoesCSharp.AssemblyInfo.cs
+C:\Users\eduardo\source\repos\ExcecoesCSharp\ExcecoesCSharp\obj\Debug\netcoreapp2.1\ExcecoesCSharp.dll
+C:\Users\eduardo\source\repos\ExcecoesCSharp\ExcecoesCSharp\obj\Debug\netcoreapp2.1\ExcecoesCSharp.pdb
